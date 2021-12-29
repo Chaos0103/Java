@@ -1,4 +1,4 @@
-package Java;
+package Java.base;
 
 public class BinaryTest {
     public static void main(String[] args){
